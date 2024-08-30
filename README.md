@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi, I'm Ajay Bhandari a Cloud Engineer  from India</div>  
+### <div align="center">Hi, I'm Ajay Bhandari a Senior Technical Representative   from India</div>  
   
 
 - I'm Currently Working on DevSecOps Project...  
